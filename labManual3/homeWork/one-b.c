@@ -7,5 +7,5 @@ void main()
     printf("Enter the height of parallelogram:\n");
     scanf("%f", &height);
     float areaOfParallelogram = base*height;
-    printf("The area of areaOfParallelogram is : %.2f",areaOfParallelogram);
+    printf("The area of is : %.2f",areaOfParallelogram);
 }
