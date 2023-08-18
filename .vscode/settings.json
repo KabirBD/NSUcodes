@@ -2,5 +2,7 @@
     "files.associations": {
         "*.svg": "html",
         "stdio.h": "c"
-    }
+    },
+    "code-runner.runInTerminal": true,
+    "C_Cpp.errorSquiggles": "disabled"
 }

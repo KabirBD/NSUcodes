@@ -1,3 +1,8 @@
+/*
+Write a C program that reads a decimal number from user and then prints “integer” if it is an integer.
+Otherwise, it should print the integer got by rounding off the input number to the next integer.
+*/
+
 #include<stdio.h>
 
 void main()

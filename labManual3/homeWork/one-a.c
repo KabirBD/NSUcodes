@@ -8,6 +8,6 @@ void main()
     scanf("%f", &longBase);
     printf("Enter the height of trapezoid:\n");
     scanf("%f", &height);
-    float areaOfTrapezoid = .5*(shortBase+longBase)*height;
+    float areaOfTrapezoid = 0.5*(shortBase+longBase)*height;
     printf("The area of trapezoid is : %.2f",areaOfTrapezoid);
 }
