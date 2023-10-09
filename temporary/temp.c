@@ -1,10 +1,6 @@
 #include <stdio.h>
-
-void main()
+int main()
 {
-    int a = 12;
-    for (int i = 1; i <= 10; i++)
-    {
-        printf("%d * %d = %d\n", a, i, a * i);
-    }
+    printf("WELCOME TO \033[1;31mOPENGENUS\033[0m\n");
+    return 0;
 }
